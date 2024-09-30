@@ -17,4 +17,4 @@ def numero(edad):
 
 @app.route("/mostrar/<nombre>", methods=["GET", "POST"])
 def mostrar_nombre(nombre):
-    return render_template("mostrar.html")
+    return render_template("mostrar.html", nombre_parametro = nombre)
