@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
@@ -14,3 +14,7 @@ def amorcin(nombre):
 @app.route("/math/<int:edad>")
 def numero(edad):
     return f"<h2>Tengo {edad} años"
+
+@app.route("/mostrar/<nombre>", methods=["GET", "POST"])
+def mostrar_nombre(nombre):
+    return render_template("mostrar.html")
