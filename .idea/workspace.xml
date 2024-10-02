@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc78c7e-b612-459e-a993-e7b3b841fa41" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webApp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/mostrar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mostrar.html" afterDir="false" />
@@ -30,12 +32,12 @@
     &quot;assignee&quot;: &quot;Owyni&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Owyni/webApp.git&quot;,
-    &quot;accountId&quot;: &quot;f84075a9-892c-402d-af6f-9917270adb97&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Owyni/webApp.git",
+    "accountId": "5a1fc75f-7202-4e55-8576-c5b541580617"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
